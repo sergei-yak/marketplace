@@ -1,0 +1,23 @@
+[
+  {
+    "title": "2013 Lexus RX350 AWD",
+    "price": "$17,500",
+    "description": "Clean title, 98k miles, recently serviced.",
+    "location": "Dallas, TX",
+    "url": "https://www.facebook.com/marketplace/item/mock-lexus-1"
+  },
+  {
+    "title": "2013 Lexus RX350 FWD",
+    "price": "$16,200",
+    "description": "Single owner, navigation, leather seats.",
+    "location": "Dallas, TX",
+    "url": "https://www.facebook.com/marketplace/item/mock-lexus-2"
+  },
+  {
+    "title": "2014 Lexus RX350",
+    "price": "$19,800",
+    "description": "Low miles, premium package.",
+    "location": "Austin, TX",
+    "url": "https://www.facebook.com/marketplace/item/mock-lexus-3"
+  }
+]
